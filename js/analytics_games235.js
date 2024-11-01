@@ -14,7 +14,7 @@ function loadGoogleAnalytics(id) {
 
 window.addEventListener("load", (event) => {
   if (navigator.webdriver) {
-    loadGoogleAnalytics("G-LE1ZGTPC77");
+    loadGoogleAnalytics("G-M9CQ16MX4G");
     console.log('Bot Browser', event);
   } else {
     if (window.location.href.indexOf(".games235.com")> -1) {
